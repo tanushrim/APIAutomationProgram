@@ -1,4 +1,4 @@
-package com.thetestingacademy.Ex02_RA_Concepts;
+package com.thetestingacademy.Ex_02_RA_Concepts;
 
 public class Lab_02_APITestingNoPattern {
     //No design Patter
